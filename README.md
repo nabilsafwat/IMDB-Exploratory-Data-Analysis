@@ -12,6 +12,7 @@ The required libraries can be installed by running the first notebook cell.
    https://github.com/nabilsafwat/IMDB-Exploratory-Data-Analysis.git
 
 2. In the directory:
-   Run "jupyter notebook "IMDB Dataset - Exploratory Data Analysis.ipynb""
+   ```bash
+   jupyter notebook "IMDB Dataset - Exploratory Data Analysis.ipynb"
 
 3. Run the cells in the notebook by clicking on them and then pressing Shift + Enter.
