@@ -16,4 +16,5 @@ The required libraries can be installed by running the first notebook cell.
    jupyter notebook "IMDB Dataset - Exploratory Data Analysis.ipynb"
 
 3. Run the cells in the notebook by clicking on them and then pressing Shift + Enter.
+
    Please run the topic modelling cell to see the result.
